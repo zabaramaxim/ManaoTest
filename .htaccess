@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+<Files db.json >
+    deny from all
+</Files>
